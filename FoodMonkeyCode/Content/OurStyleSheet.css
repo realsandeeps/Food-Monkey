@@ -1,0 +1,56 @@
+﻿body {
+}
+/*Navbar*/
+#anui, #nbui {
+    border-right: 1px solid #777;
+}
+
+
+.logo-clr {
+    color: #21B6A8;
+}
+.navbar-brand {
+    font-size: 34px;
+    color: orangered;
+    font-weight:200;
+}
+
+/*Carousel*/
+.carousel-txt div h1 {
+    font-size: 28px;
+}
+
+.car-txt-p {
+    max-width: 60%;
+    text-align: center;
+    color: #777;
+}
+
+.carousel-indicators {
+    bottom: -160px;
+    z-index: 4;
+}
+
+.carousel img {
+    max-height: 500px;
+    margin: 0 auto;
+    object-fit: cover;
+}
+
+.car-txt {
+    color: #21B6A8;
+}
+
+.car-btn {
+    color: white;
+    background-color: #21B6A8;
+    min-height: 50px;
+    min-width: 200px;
+}
+
+.carousel-txt {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
